@@ -86,7 +86,7 @@ Replaces simple plurality/plurality-runoff with a **weighted scoring mechanism**
   - Last 5 election/appointment score breakdowns
   - Full public expenditure ledger (> $10K)
 - **Tech Stack**: Client-side only (JavaScript/D3.js); runs in-browser; open-source (MIT License).
-
+https://user525353.github.io/-earned-authority-model-/
 ---
 
 ## Keywords for Discovery  
