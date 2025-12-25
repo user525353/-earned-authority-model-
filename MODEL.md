@@ -6,10 +6,9 @@ All components are designed for transparency, reproducibility, and real-world te
 1. Direct Access Links (Live Demos & Code)
 
 - Interactive Simulation (EAM Navigator):  
-  https://your-username.github.io/earned-authority-model/  
-  A browser-based dashboard that simulates 500 officials across municipal, county, state, and federal tiers. Tracks experience, scoring dynamics, and citizen oversight in real time.
-
-Model Explanation: What Is the EAM & Why Does It Matter?  https://github.com/your-username/earned-authority-model/raw/main/EAM_Whitepaper.. Model Explanation: What Is the EAM & Why Does It Matter?which can reward populi or inexperience), the model ties authority to:  
+  https://user525353.github.io/-earned-authority-model-/
+ A browser-based dashboard that simulates 500 officials across municipal, county, state, and federal tiers. Tracks experience, scoring dynamics, and citizen oversight in real time.
+Model Explanation: What Is the EAM & Why Does It Matter?which can reward populi or inexperience), the model ties authority to:  
 - Demonstrated competence (via tiered service and peer review)  
 - Multi-source validation (voters, peers, supervisors)  
 - Radical transparency (financial disclosures, public scoring)  
