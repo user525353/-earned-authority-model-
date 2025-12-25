@@ -9,18 +9,7 @@ All components are designed for transparency, reproducibility, and real-world te
   https://your-username.github.io/earned-authority-model/  
   A browser-based dashboard that simulates 500 officials across municipal, county, state, and federal tiers. Tracks experience, scoring dynamics, and citizen oversight in real time.
 
-- Full Source Code (GitHub Repository):  
-  https://github.com/your-username/earned-authority-model  
-  Contains all JavaScript/HTML/CSS files for the simulation, plus raw data exports and documentation.
-
-- Standalone Model Paper (PDF):  
-  https://github.com/your-username/earned-authority-model/raw/main/EAM_Whitepaper.pdf  
-  A 10-page academic summary of the model’s theoretical foundations and policy implications.
-
-2. Model Explanation: What Is the EAM & Why Does It Matter?
-
-Core Objective  
-The EAM reimagines how public authority is earned in democratic systems. Instead of relying solely on election outcomes (which can reward populism or inexperience), the model ties authority to:  
+Model Explanation: What Is the EAM & Why Does It Matter?  https://github.com/your-username/earned-authority-model/raw/main/EAM_Whitepaper.. Model Explanation: What Is the EAM & Why Does It Matter?which can reward populi or inexperience), the model ties authority to:  
 - Demonstrated competence (via tiered service and peer review)  
 - Multi-source validation (voters, peers, supervisors)  
 - Radical transparency (financial disclosures, public scoring)  
@@ -33,27 +22,30 @@ U.S. politics often treats elections as a one-time license for authority—but t
 1. Replacing "winner-take-all" with continuous evaluation  
    - No more "I won, so I get to do whatever I want." Authority is renewed through ongoing performance metrics.  
 
-2. Structuring career pathways for public officials  
-   - Officials must serve minimum terms at lower tiers (e.g., municipal → county → state → federal) before advancing. This ensures they understand grassroots realities.  
+I  Structuring career pathways for public officials  
+     Officials must serve minimum terms at lower tiers (e.g., municipal → county → state → federal) before advancing. This ensures they understand grassroots realities.  
 
-3. Using data-driven scoring to reduce bias  
-   - Scoring formulas combine voter preferences (50%), peer endorsements (40%), and supervisor checks (10%)—making it harder for unqualified candidates to win based on name recognition alone.  
+fo Using data-driven scoring to reduce bias  
+   s Scoring formulas combine voter preferences (50%), peer endorsements (40%), and supervisor checks (10%)—making it harder for unqualified candidates to win based on name recognition alone.  
 
-Real-World Use Cases  
-The EAM isn’t just theory—it’s designed for testing in U.S. institutions:  
+Real-World Use CasesidaThe EAM isn’t just theory—it’s designed for testing in U.S. institutions:  
 
-- State judiciary appointments: Use peer review + public scoring to reduce politicized confirmations.  
-- Municipal leadership: Require mayors to serve as city council members first, with transparent performance tracking.  
-- Federal agency heads: Tie promotions to cross-tier experience and public financial disclosures.  
+  State judiciary appointments: Use peer review + public scoring to reduce politicized confirmations.  
+e Municipal leadership: Require mayors to serve as city council members first, with transparent performance tracking.  
+  Federal agency heads: Tie promotions to cross-tier experience and public financial disclosures.  
 
-3. Full Model Code (JavaScript/HTML Implementation)
+mo Full Model Code (JavaScript/HTML Implementation)
 
 Below is the core simulation logic for the EAM Navigator (browser-based dashboard). This code generates official career paths, scoring dynamics, and transparency reports.  
-<!DOCTYPE html>
-<html lang="en">
+ official caree
+ html , sc=ring 
+yheadc
+,meta transpa=ency re or
+smeta !DOC=YPE html>
+ html la=g="en">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<
 <title>EAM Dual-System Political Simulator</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 <style>
